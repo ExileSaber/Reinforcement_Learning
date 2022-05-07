@@ -46,17 +46,6 @@
 
 
 5. Multi-Agent-Reinforcement-Learning-Environment
-   * 该环境需要在environment文件夹下通过git命令clone下来
-
-* 项目地址的git
-<code>
-git clone https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment.git
-</code>
-
-* git clone加速
-<code>
-git clone https://gitclone.com/github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment.git
-</code>
 
 <br>
 
