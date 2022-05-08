@@ -47,6 +47,9 @@
 
 5. Multi-Agent-Reinforcement-Learning-Environment
 
+
+6. DeepMind Lab（3D迷宫环境）
+
 <br>
 
 ### 各环境实现了的模型
